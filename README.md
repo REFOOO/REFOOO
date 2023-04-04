@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @REFOOO
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning C++
 
 <!---
 REFOOO/REFOOO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
